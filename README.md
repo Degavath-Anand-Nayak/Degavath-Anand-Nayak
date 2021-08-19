@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Degavath-Anand-Nayak
-- 👀 I’m interested in Web development and Data Science...
-- 🌱 I’m currently learning Back end and Data Science 
+- 👀 I’m interested in Web development
 - 💞️ I’m looking to collaborate on front end web development projects...
 - 📫  Reach me on degavathanandnayak@gmail.com
 
