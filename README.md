@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Degavath-Anand-Nayak
-- 👀 I’m interested in Web development
-- 💞️ I’m looking to collaborate on front end web development projects...
+- 👀 I’m interested in Full stack Web development
+- 💞️ I’m looking to collaborate on Full stack web development projects...
 - 📫  Reach me on degavathanandnayak@gmail.com
 
 <!---
